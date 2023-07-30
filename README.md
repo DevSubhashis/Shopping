@@ -1,6 +1,6 @@
-# ppl
+# Shopping
 
-PPL is a ecommerce app.
+Shopping is a ecommerce app.
 
 ## Getting Started
 
